@@ -23,7 +23,7 @@ public class Student{
     public static void main(String[] args){
         student_info s1 = new student_info();
         s1.setname("Nandini");
-        s1.setmarks(200);
+        s1.setmarks(59);
         System.out.println("Student name:"+s1.getname());
         System.out.println("Marks:"+s1.getmarks());
     }
